@@ -1,0 +1,5 @@
+-/checkpoints
+-/model/utils/nms/_nms_gpu_post.c
+-/model/utils/nms/_nms_gpu_post.so
+-/model/utils/nms/build
+-*.pyc
